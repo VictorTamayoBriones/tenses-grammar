@@ -11,6 +11,7 @@ export const Sentences = ({tense})=>{
             if( sentence.name === tense ){
                 setSentences(sentence.sentences)
             }
+            return null
         })
     }, [tense]);
 
@@ -43,5 +44,8 @@ const SentencesContainer = styled.div`
             padding: 12px;
             border-radius: 8px;
         }
+    }
+    @media (max-width: 660px){
+        padding: 20px;
     }
 `;

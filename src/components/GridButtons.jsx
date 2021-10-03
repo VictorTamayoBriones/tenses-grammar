@@ -28,6 +28,10 @@ const GridContainer = styled.div`
     overflow: hidden;
     flex-wrap: wrap;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+    @media (max-width:660px){
+        padding: 20px;
+        gap: 20px;
+    }
 `;
 
 const Btn = styled.button`
