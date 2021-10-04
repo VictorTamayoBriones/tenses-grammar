@@ -213,23 +213,23 @@ export const Data = [
         sentences: [
             {
                 id: 'fww1',
-                sentence: ''
+                sentence: 'I will go to the park with Martha, we want to buy a thing.'
             },
             {
                 id: 'fww2',
-                sentence: ''
+                sentence: 'They won´t go to the college today'
             },
             {
                 id: 'fww3',
-                sentence: ''
+                sentence: 'When will you go to the cinema with Maria?'
             },
             {
                 id: 'fww4',
-                sentence: ''
+                sentence: 'She will go to the office with Marta, they want to get a new contract.'
             },
             {
                 id: 'fww5',
-                sentence: ''
+                sentence: 'When will you go to the job?'
             },
         ]
     },
@@ -239,23 +239,23 @@ export const Data = [
         sentences: [
             {
                 id: 'fwgt1',
-                sentence: ''
+                sentence: 'I am not going to go to class tomorrow, the college is close.'
             },
             {
                 id: 'fwgt2',
-                sentence: ''
+                sentence: 'She is going to take a math class the next week.'
             },
             {
                 id: 'fwgt3',
-                sentence: ''
+                sentence: 'Mark and Paul are going to think about his next interview.'
             },
             {
                 id: 'fwgt4',
-                sentence: ''
+                sentence: 'What are you going to do the saturday night?'
             },
             {
                 id: 'fwgt5',
-                sentence: ''
+                sentence: 'I am not going to pretend to be positive.'
             },
         ]
     },
@@ -265,23 +265,23 @@ export const Data = [
         sentences: [
             {
                 id: 'fc1',
-                sentence: ''
+                sentence: 'We will be trying to obtain a good job in the city.'
             },
             {
                 id: 'fc2',
-                sentence: ''
+                sentence: 'Will you be doing anything this afternoon about 6pm?.'
             },
             {
                 id: 'fc3',
-                sentence: ''
+                sentence: 'They will not be coming to the college tomorrow.'
             },
             {
                 id: 'fc4',
-                sentence: ''
+                sentence: 'My mother will be making a pizza in the afternoon for we.'
             },
             {
                 id: 'fc5',
-                sentence: ''
+                sentence: 'She will be learning the French language in a new college.'
             },
         ]
     },
@@ -291,23 +291,23 @@ export const Data = [
         sentences: [
             {
                 id: 'fp1',
-                sentence: ''
+                sentence: 'I will have taken coffee by 9 am today.'
             },
             {
                 id: 'fp2',
-                sentence: ''
+                sentence: 'Tom will have finished his homework by 9 p.m.'
             },
             {
                 id: 'fp3',
-                sentence: ''
+                sentence: 'They will have completed the work before the sunset.'
             },
             {
                 id: 'fp4',
-                sentence: ''
+                sentence: 'Why will the Director have turned down the project?'
             },
             {
                 id: 'fp5',
-                sentence: ''
+                sentence: 'They will not have eaten apples next week.'
             },
         ]
     },
@@ -317,23 +317,23 @@ export const Data = [
         sentences: [
             {
                 id: 'fpc1',
-                sentence: ''
+                sentence: 'How long will you have been studying when you graduate?'
             },
             {
                 id: 'fpc2',
-                sentence: ''
+                sentence: 'Next wednesday, I will have been seeing this movie for two times.'
             },
             {
                 id: 'fpc3',
-                sentence: ''
+                sentence: 'It will have been raining for several days.'
             },
             {
                 id: 'fpc4',
-                sentence: ''
+                sentence: 'By 2022, we will have been living here for 9 years.'
             },
             {
                 id: 'fpc5',
-                sentence: ''
+                sentence: 'She will be very tired when he gets home because he will have been playing basketball for over two hours.'
             },
         ]
     },
